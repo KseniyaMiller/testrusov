@@ -4,4 +4,8 @@ untesting file
 456
 789.
 Add Line
+<<<<<<< HEAD
 3line
+=======
+new branch line
+>>>>>>> first_branch
